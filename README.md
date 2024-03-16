@@ -1,0 +1,2 @@
+# Quiz-App
+By using HTML,CSS AND JAVASCRIPT
